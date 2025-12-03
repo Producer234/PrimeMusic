@@ -3,7 +3,7 @@ aiohttp
 asyncio
 dnspython
 ffmpeg-python
-pytgcalls==3.0.0.dev22
+pytgcalls==3.0.0
 hachoir
 heroku3
 lyricsgenius
