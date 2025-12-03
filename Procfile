@@ -1,1 +1,1 @@
-python3 -m PrimeMusic
+worker: bash start
